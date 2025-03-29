@@ -14,13 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-            Text("Mellow world!")
+          
         }
         .padding()
     }
 }
-
-// WELL THIS SHOULD BE ON GITHUB NOW
 
 #Preview {
     ContentView()
